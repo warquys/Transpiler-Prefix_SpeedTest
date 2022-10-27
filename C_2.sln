@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32104.313
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C_2.Harmony", "C_2.Harmony\C_2.Harmony.csproj", "{AC81971B-A395-4542-B293-2963B101D5C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		TestPrefix_Debug|Any CPU = TestPrefix_Debug|Any CPU
+		TestPrefix_Release|Any CPU = TestPrefix_Release|Any CPU
+		TestTranspiler_Debug|Any CPU = TestTranspiler_Debug|Any CPU
+		TestTranspiler_Release|Any CPU = TestTranspiler_Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC81971B-A395-4542-B293-2963B101D5C8}.TestPrefix_Debug|Any CPU.ActiveCfg = TestPrefix_Debug|Any CPU
+		{AC81971B-A395-4542-B293-2963B101D5C8}.TestPrefix_Debug|Any CPU.Build.0 = TestPrefix_Debug|Any CPU
+		{AC81971B-A395-4542-B293-2963B101D5C8}.TestPrefix_Release|Any CPU.ActiveCfg = TestPrefix_Release|Any CPU
+		{AC81971B-A395-4542-B293-2963B101D5C8}.TestPrefix_Release|Any CPU.Build.0 = TestPrefix_Release|Any CPU
+		{AC81971B-A395-4542-B293-2963B101D5C8}.TestTranspiler_Debug|Any CPU.ActiveCfg = TestTranspiler_Debug|Any CPU
+		{AC81971B-A395-4542-B293-2963B101D5C8}.TestTranspiler_Debug|Any CPU.Build.0 = TestTranspiler_Debug|Any CPU
+		{AC81971B-A395-4542-B293-2963B101D5C8}.TestTranspiler_Release|Any CPU.ActiveCfg = TestPrefix_Release|Any CPU
+		{AC81971B-A395-4542-B293-2963B101D5C8}.TestTranspiler_Release|Any CPU.Build.0 = TestPrefix_Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C048AD0-37B9-4CA6-8008-26BEECB6AC98}
+	EndGlobalSection
+EndGlobal
